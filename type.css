@@ -1,8 +1,8 @@
 #app{
     text-align: center;
     font-size: 18px;
-    background-image: linear-gradient(
-        -225deg,#231557 0%,#44107a 29%,#ff1361 67%,#fff800 100%
+     background-image: linear-gradient(
+        -225deg,#1eff4f 0%,#33fd0a 29%,#3cff00 67%,#bdff07 100%
     );
     background-clip: border-box;
      text-fill-color:transparent;
