@@ -48,8 +48,7 @@ body {
   height: 370px !important;
   border: 2px solid beige;
   box-shadow: 0px 2px 6px 4px #00ffd0;
-  -webkit-animation: AnimateBG 20s ease infinite;
-  animation: AnimateBG 20s ease infinite;
+ 
 }
 
 @-webkit-keyframes AnimateBG {
